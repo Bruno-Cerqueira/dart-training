@@ -43,5 +43,5 @@ main() {
 
   List<String> house = ['window', 'door', 'wall', 'roof'];
   
-  house.forEach((e) => print(e));
+  house.forEach((e) => print(e)); // param inside forEach, anonymous func;
 }
