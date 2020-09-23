@@ -1,0 +1,9 @@
+# Files and directories created by pub
+module_program/.dart_tool/
+module_program/.packages
+
+# Conventional directory for build outputs
+module_program/build/
+
+# Directory created by dartdoc
+module_program/doc/api/
