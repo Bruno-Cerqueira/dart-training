@@ -57,6 +57,11 @@ To execute dart file.
 dart [name-file].dart
 ```
 
+To execute module_program:
+```sh
+dart module_program/bin/module_program.dart [optional arguments: print, calculate]
+```
+
 <!-- ROADMAP -->
 ## Roadmap
 
