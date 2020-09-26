@@ -59,7 +59,7 @@ dart [name-file].dart
 
 To execute module_program:
 ```sh
-dart module_program/bin/module_program.dart [optional arguments: print, calculate]
+dart module_program/lib/main.dart [optional arguments: print, calculate, imc, shopping]
 ```
 
 <!-- ROADMAP -->
